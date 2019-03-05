@@ -1,5 +1,5 @@
 # Butterfly_Detection
-This repository is the source code of butterfly Classification and Detection when I participated the competition.
+This repository is the source code of butterfly Classification and Detection.
 ## Content
 It contains two folder.
 * First one is the code of butterfly classification in the wild, it mainly used the Inception_V3 network.
